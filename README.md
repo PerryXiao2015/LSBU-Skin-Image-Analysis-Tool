@@ -27,7 +27,7 @@ The search results of X-Ray chest images.
 The search results of skin capacitive images.
 ![Skin Image Searching](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/search4.jpg?raw=true)
 # Skin Live Image Analysis
-Click the "Analyze" tab in the program, tick the "Use Webcam" button to get the live image from a Webcam, select a filter from dropdown list, you can select grayscale, red channel, green channel, blue channel and custom. In Custom filter, you can manually specify RGB channel caculations. Also in the filter, you can choose face detection, eye detection and upper body detection.
+Click the "Analyze" tab in the program, tick the "Use Webcam" button to get the live image from a Webcam, select a filter from dropdown list, you can select grayscale, red channel, green channel, blue channel and custom. In Custom filter, you can manually specify RGB channel caculations. Also in the filter, you can choose face detection, eye detection and upper body detection. Make sure to tick "Analyze" checkbox to activate the filter.
 
 This shows the original skin image and the Blue channel image.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live1.jpg?raw=true)
