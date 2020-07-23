@@ -22,7 +22,11 @@ Click the "Search" tab in the program, first select the folder where your image 
 ![Skin Image Searching](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/search3.jpg?raw=true)
 # Skin Live Image Analysis
 Click the "Analyze" tab in the program, tick the "Use Webcam" button to get the live image from a Webcam, select a filter from dropdown list, you can select grayscale, red channel, green channel, blue channel and custom. In Custom filter, you can manually specify RGB channel caculations. Also in the filter, you can choose face detection, eye detection and upper body detection.
+This shows the original skin image and the Blue channel image.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live1.jpg?raw=true)
+This shows the original skin image and the Green channel image.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live3.jpg?raw=true)
+This shows the original skin image and the Red channel image.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live4.jpg?raw=true)
+This shows the original skin image and the image of Blue x 0.7 + Green x 0.7, no Red channel.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live2.jpg?raw=true)
