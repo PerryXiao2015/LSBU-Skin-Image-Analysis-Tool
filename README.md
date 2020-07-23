@@ -17,11 +17,18 @@ Once you have trained the model, click the "Classify" tab, select a model (e.g. 
 ![Skin Image Classification](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/classify.jpg?raw=true)
 # Skin Image Searching
 Click the "Search" tab in the program, first select the folder where your image is, then select the search method, Gabor, PCA or GLCM, click "Update Image Database" button, this might take a few minutes to calculate the feature vectors of all the images. You only need to do this once. Click "Search Image Database" button to select a image file to search the images, it will return with the best matching image, and 2nd, 3rd, 4th and 5th best matching images. You can also tick the "Use Webcam" button to get the query image from a Webcam.
+
+The search results of skin cancer images.
 ![Skin Image Searching](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/search1.jpg?raw=true)
+The search results of skin ultrsound images.
 ![Skin Image Searching](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/search2.jpg?raw=true)
+The search results of X-Ray chest images.
 ![Skin Image Searching](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/search3.jpg?raw=true)
+The search results of skin capacitive images.
+![Skin Image Searching](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/search4.jpg?raw=true)
 # Skin Live Image Analysis
 Click the "Analyze" tab in the program, tick the "Use Webcam" button to get the live image from a Webcam, select a filter from dropdown list, you can select grayscale, red channel, green channel, blue channel and custom. In Custom filter, you can manually specify RGB channel caculations. Also in the filter, you can choose face detection, eye detection and upper body detection.
+
 This shows the original skin image and the Blue channel image.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live1.jpg?raw=true)
 This shows the original skin image and the Green channel image.
