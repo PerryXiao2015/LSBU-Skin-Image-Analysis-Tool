@@ -6,7 +6,7 @@ For more details, please read out paper titled "The Development of a Skin Image 
 1. Go to the "Download.txt" file, use the link to download the MATLAB App Installer file called "LSBU Skin Image Analysis.mlappinstall", and save it in a local directory.
 2. In MATLAB, go to the directory, double click the file to install it in your MATLAB App tab.
 ![Download and Installation](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/install.jpg?raw=true)
-3. From your MATLAB App tab, double click the "LSBU Skin Image Analysis" ico to run.
+3. From your MATLAB App tab, double click the "LSBU Skin Image Analysis" icon to run.
 ![Run the Program](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/run.jpg?raw=true)
 # Skin Image Classification
 1. Training
