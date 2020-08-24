@@ -37,3 +37,5 @@ This shows the original skin image and the Red channel image.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live4.jpg?raw=true)
 This shows the original skin image and the image of Blue x 0.7 + Green x 0.7, no Red channel.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live2.jpg?raw=true)
+# License
+By using this software, you agree to accept to accept the terms and conditions of this License(https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/License.txt).
