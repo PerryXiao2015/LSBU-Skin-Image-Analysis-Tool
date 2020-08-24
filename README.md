@@ -1,4 +1,8 @@
 # LSBU-Skin-Image-Analysis-Tool
+Professor Perry Xiao
+London South Bank University, UK
+24/08/2020
+
 This graphical user interface (GUI) based skin image analysis tool provides several functions: a) skin image classification by using Deep Learning neural networks such as AlexNet, GoogLeNet and so on; b) skin image search by using Gabor Wavelet Transform, Principle Components Analysis, Gray-Level Co-Occurrence Matrix; c)skin live image analysis in real time which allows RBG calculations, as well as face detection, eye detection and upper body detection. This can program can work on a range of skin images, such as skin digital images, skin capacitive images, skin ultrasound images, and even X-ray images!
 
 For more details, please read out paper titled "The Development of a Skin Image Analysis Tool by Using Machine Learning Algorithms", submitted to Cosmetics — Open Access Journal (https://www.mdpi.com/journal/cosmetics).
@@ -38,4 +42,5 @@ This shows the original skin image and the Red channel image.
 This shows the original skin image and the image of Blue x 0.7 + Green x 0.7, no Red channel.
 ![Skin Live Image Analysis](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/live2.jpg?raw=true)
 ## License
-By using this software, you agree to accept to accept the terms and conditions of this [License](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/License.txt).
+By using this software, you agree to accept the terms and conditions of this [License](https://github.com/PerryXiao2015/LSBU-Skin-Image-Analysis-Tool/blob/master/License.txt).
+
