@@ -5,7 +5,7 @@ August 24, 2020<br></i>
 
 This graphical user interface (GUI) based skin image analysis tool provides several functions: a) skin image classification by using Deep Learning neural networks such as AlexNet, GoogLeNet and so on; b) skin image search by using Gabor Wavelet Transform, Principle Components Analysis, Gray-Level Co-Occurrence Matrix; c)skin live image analysis in real time which allows RBG calculations, as well as face detection, eye detection and upper body detection. This can program can work on a range of skin images, such as skin digital images, skin capacitive images, skin ultrasound images, and even X-ray images!
 
-For more details, please read out paper titled "The Development of a Skin Image Analysis Tool by Using Machine Learning Algorithms", submitted to Cosmetics — Open Access Journal (https://www.mdpi.com/journal/cosmetics).
+For more details, please read our paper titled ["The Development of a Skin Image Analysis Tool by Using Machine Learning Algorithms"](https://doi.org/10.3390/cosmetics7030067), submitted to Cosmetics — Open Access Journal (https://www.mdpi.com/journal/cosmetics).
 ## Download and Installation
 1. Go to the "Download.txt" file, use the link to download the MATLAB App Installer file called "LSBU Skin Image Analysis.mlappinstall", and save it in a local directory.
 2. In MATLAB, go to the directory, double click the file to install it in your MATLAB App tab.
