@@ -1,7 +1,6 @@
 # LSBU-Skin-Image-Analysis-Tool
-Professor Perry Xiao
-London South Bank University, UK
-24/08/2020
+<i>Professor Perry Xiao, London South Bank University, UK<br>
+24/08/2020<br></i>
 
 This graphical user interface (GUI) based skin image analysis tool provides several functions: a) skin image classification by using Deep Learning neural networks such as AlexNet, GoogLeNet and so on; b) skin image search by using Gabor Wavelet Transform, Principle Components Analysis, Gray-Level Co-Occurrence Matrix; c)skin live image analysis in real time which allows RBG calculations, as well as face detection, eye detection and upper body detection. This can program can work on a range of skin images, such as skin digital images, skin capacitive images, skin ultrasound images, and even X-ray images!
 
